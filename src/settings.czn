@@ -1,0 +1,17 @@
+#Thu Mar 13 22:39:59 EET 2025
+bgImage=./textures/backgroundImage2.png
+bgMusicIndex=0
+bgMusik=./textures/back1.wav
+bgMusikdb=-0.9151498
+bgmusicSliderVal=90
+buttonPress=./textures/buttonPress.wav
+emptyFile=./src/empty.czn
+fishGif=./textures/fish.gif
+sfxSluderVal=80
+sfxdb=-6.0206
+titleImage=./textures/title1.png
+trainChar=./textures/train3.png
+trainEnd=./textures/trainEnd.wav
+trainSelect=2
+trainStart=./textures/trainStart.wav
+trainTrack=./textures/sin.png
