@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/typeRacing.iml" filepath="$PROJECT_DIR$/typeRacing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CFRRaceTheDelay.iml" filepath="$PROJECT_DIR$/CFRRaceTheDelay.iml" />
     </modules>
   </component>
 </project>
